@@ -1,5 +1,6 @@
 ### Install virtual environment "moviepy" for python 3.8.0  
 pyenv virtualenv 3.8.0 moviepy  
+pyenv activate moviepy
 pip install --upgrade pip  
 pip install ez-tools  
 pip install scipy  
